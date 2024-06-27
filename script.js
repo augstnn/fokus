@@ -52,7 +52,7 @@ function descansoCurto() {
 </h1>`;
     imagem.setAttribute("src", "/imagens/descanso-curto.png");
     zerar();
-    tempoSegundos = 3;
+    tempoSegundos = 300;
     mostrarTempo(tempoSegundos);
     ativar(descansoCurtoBt);
 };
